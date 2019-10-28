@@ -1,0 +1,202 @@
+@font-face {
+  font-family: 'sellercommerce';
+  src:  url('fonts/sellercommerce.eot?b6n80n');
+  src:  url('fonts/sellercommerce.eot?b6n80n#iefix') format('embedded-opentype'),
+    url('fonts/sellercommerce.ttf?b6n80n') format('truetype'),
+    url('fonts/sellercommerce.woff?b6n80n') format('woff'),
+    url('fonts/sellercommerce.svg?b6n80n#sellercommerce') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="sc-ico-"], [class*=" sc-ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sellercommerce' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sc-ico-extranal-link:before {
+  content: "\e926";
+  color: #1b3a68;
+}
+.sc-ico-catalogue:before {
+  content: "\e912";
+  color: #fff;
+}
+.sc-ico-group:before {
+  content: "\e913";
+  color: #fff;
+}
+.sc-ico-categories:before {
+  content: "\e914";
+  color: #fff;
+}
+.sc-ico-assets:before {
+  content: "\e900";
+
+}
+.sc-ico-clock:before {
+  content: "\e915";
+  color: #fff;
+}
+.sc-ico-allowence:before {
+  content: "\e917";
+  color: #fff;
+}
+.sc-ico-information .path1:before {
+  content: "\e918";
+  color: rgb(165, 174, 188);
+}
+.sc-ico-information .path2:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.sc-ico-information .path3:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.sc-ico-settings:before {
+  content: "\e901";
+}
+.sc-ico-template:before {
+  content: "\e902";
+
+}
+.sc-ico-orders:before {
+  content: "\e903";
+
+}
+.sc-ico-products-copy .path1:before {
+  content: "\e91b";
+  color: rgb(255, 255, 255);
+  opacity: 0.9;
+}
+.sc-ico-products-copy .path2:before {
+  content: "\e91c";
+  margin-left: -0.841796875em;
+  color: rgb(255, 255, 255);
+}
+.sc-ico-products-copy .path3:before {
+  content: "\e91d";
+  margin-left: -0.841796875em;
+  color: rgb(255, 255, 255);
+}
+.sc-ico-products-copy .path4:before {
+  content: "\e91e";
+  margin-left: -0.841796875em;
+  color: rgb(255, 255, 255);
+  opacity: 0.9;
+}
+.sc-ico-products-copy .path5:before {
+  content: "\e91f";
+  margin-left: -0.841796875em;
+  color: rgb(255, 255, 255);
+  opacity: 0.9;
+}
+.sc-ico-reports:before {
+  content: "\e904";
+}
+.sc-ico-products .path1:before {
+  content: "\e905";
+  opacity: 0.9;
+}
+.sc-ico-products .path2:before {
+  content: "\e906";
+  margin-left: -0.841796875em;
+}
+.sc-ico-products .path3:before {
+  content: "\e907";
+  margin-left: -0.841796875em;
+}
+.sc-ico-products .path4:before {
+  content: "\e908";
+  margin-left: -0.841796875em;
+  opacity: 0.9;
+}
+.sc-ico-products .path5:before {
+  content: "\e909";
+  margin-left: -0.841796875em;
+  opacity: 0.9;
+}
+.sc-ico-branding:before {
+  content: "\e920";
+  color: #fff;
+}
+.sc-ico-balnce:before {
+  content: "\e922";
+  color: #fff;
+}
+.sc-ico-sales:before {
+  content: "\e923";
+  color: #fff;
+}
+.sc-ico-tools:before {
+  content: "\e90a";
+
+}
+.sc-ico-employees:before {
+  content: "\e90b";
+ 
+}
+.sc-ico-cart:before {
+  content: "\e925";
+  color: #fff;
+}
+.sc-ico-dashboard:before {
+  content: "\e90c";
+}
+.sc-ico-notification:before {
+  content: "\e90d";
+  color: #3694e1;
+}
+.sc-ico-shop:before {
+  content: "\e90e";
+ color: #a5aebc;
+
+}
+.sc-ico-top-nav:before {
+  content: "\e90f";
+  color: #a5aebc
+
+}
+.sc-ico-menu-bar:before {
+  content: "\e910";
+
+}
+.sc-ico-calendar:before {
+  content: "\e911";
+}
+.sc-ico-search:before {
+  content: "\e986";
+   color: #a5aebc;
+}
+.sc-ico-question:before {
+  content: "\ea09";
+   color: #a5aebc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
